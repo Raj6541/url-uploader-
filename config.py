@@ -28,6 +28,6 @@ class Config(object):
 
     SESSION_NAME = "uploaderbotv3bot"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://uploadbotv2:Ichbinschwul2@cluster0.6eyjorl.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://urluploadbotv3:Ichbinuncool2@cluster0.8qibtss.mongodb.net/?retryWrites=true&w=majority")
 
     MAX_RESULTS = "50"
