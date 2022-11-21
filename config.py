@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5620374374:AAFYDge2vy7RMNsGsnJJP7d6qnba8tHV6Go")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5853823615:AAFqa5HkfJ7dxkXI2HX--w3lV2apuTvGBU8")
     
     API_ID = int(os.environ.get("API_ID", 18000552))
     
@@ -26,7 +26,7 @@ class Config(object):
     
     OWNER_ID = int(os.environ.get("OWNER_ID", "1647611573"))
 
-    SESSION_NAME = "urluploadjoebot"
+    SESSION_NAME = "uploaderbotv3bot"
     
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://uploadbotv2:Ichbinschwul2@cluster0.6eyjorl.mongodb.net/?retryWrites=true&w=majority")
 
